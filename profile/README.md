@@ -25,7 +25,7 @@
     &nbsp;&nbsp;
     <a href="https://www.youtube.com/@watchSurrealine" target="_blank" rel="noopener noreferrer"><img height="28" src="../assets/images/social/youtube.svg" alt="Youtube"></a>
     &nbsp;&nbsp;
-    <a href="https://mirror.xyz/preterag.eth" target="_blank" rel="noopener noreferrer"><img height="28" src="../assets/images/social/mirror.svg" alt="Mirror"></a>
+    <a href="https://mirror.xyz/preterag.eth" target="_blank" rel="noopener noreferrer"><img height="35" src="../assets/images/social/mirror.svg" alt="Mirror"></a>
     &nbsp;&nbsp;
     <a href="https://docs.preterag.com" target="_blank" rel="noopener noreferrer"><img height="28" src="../assets/images/social/docs.svg" alt="Docs"></a>
 </p>
