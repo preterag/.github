@@ -20,17 +20,17 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/preterag"><img height="25" src="assets/images/social/preterag_fav_icon.png" alt="Github"></a>
+    <a href="https://github.com/preterag"><img height="25" src="assets/images/social/github.svg" alt="Github"></a>
     &nbsp;
-    <a href="https://x.com/preterag"><img height="25" src="assets/images/social/preterag_fav_icon.png" alt="X"></a>
+    <a href="https://x.com/preterag"><img height="25" src="assets/images/social/twitter.svg" alt="X"></a>
     &nbsp;
-    <a href="https://www.linkedin.com/company/preterag/"><img height="25" src="assets/images/social/preterag_fav_icon.png" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/company/preterag/"><img height="25" src="assets/images/social/linkedin.svg" alt="LinkedIn"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@watchSurrealine"><img height="25" src="assets/images/social/preterag_fav_icon.png" alt="Youtube"></a>
+    <a href="https://www.youtube.com/@watchSurrealine"><img height="25" src="assets/images/social/youtube.svg" alt="Youtube"></a>
     &nbsp;
-    <a href="https://mirror.xyz/preterag.eth"><img height="25" src="assets/images/social/preterag_fav_icon.png" alt="Blog"></a>
+    <a href="https://mirror.xyz/preterag.eth"><img height="25" src="assets/images/social/blog.svg" alt="Blog"></a>
     &nbsp;
-    <a href="https://docs.preterag.com"><img height="25" src="assets/images/social/preterag_fav_icon.png" alt="Docs"></a>
+    <a href="https://docs.preterag.com"><img height="25" src="assets/images/social/docs.svg" alt="Docs"></a>
 </p>
 
 <br>
