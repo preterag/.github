@@ -17,25 +17,19 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/preterag"><img height="25" src="../assets/images/social/github.svg" alt="Github"></a>
-    &nbsp;
-    <a href="https://x.com/preterag"><img height="25" src="../assets/images/social/twitter.svg" alt="X"></a>
-    &nbsp;
-    <a href="https://www.linkedin.com/company/preterag/"><img height="25" src="../assets/images/social/linkedin.svg" alt="LinkedIn"></a>
-    &nbsp;
-    <a href="https://www.youtube.com/@watchSurrealine"><img height="25" src="../assets/images/social/youtube.svg" alt="Youtube"></a>
-    &nbsp;
-    <a href="https://mirror.xyz/preterag.eth"><img height="25" src="../assets/images/social/mirror.svg" alt="Mirror"></a>
-    &nbsp;
-    <a href="https://docs.preterag.com"><img height="25" src="../assets/images/social/docs.svg" alt="Docs"></a>
+    <a href="https://github.com/preterag"><img height="28" src="../assets/images/social/github.svg" alt="Github"></a>
+    &nbsp;&nbsp;
+    <a href="https://x.com/preterag"><img height="28" src="../assets/images/social/twitter.svg" alt="X"></a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/company/preterag/"><img height="28" src="../assets/images/social/linkedin.svg" alt="LinkedIn"></a>
+    &nbsp;&nbsp;
+    <a href="https://www.youtube.com/@watchSurrealine"><img height="28" src="../assets/images/social/youtube.svg" alt="Youtube"></a>
+    &nbsp;&nbsp;
+    <a href="https://mirror.xyz/preterag.eth"><img height="28" src="../assets/images/social/mirror.svg" alt="Mirror"></a>
+    &nbsp;&nbsp;
+    <a href="https://docs.preterag.com"><img height="28" src="../assets/images/social/docs.svg" alt="Docs"></a>
 </p>
 
 <br>
-
-## <span style="color: #02FC9F;">🎯 Vision</span>
-
-To create a thriving ecosystem where independent filmmakers can sustainably create, distribute, and monetize their art while building meaningful connections with their audience and supporters.
-
----
 
 <p align="center" style="color: #015E5C;">Built with <span style="color: #02FC9F;">💚</span> by Preterag</p> 
