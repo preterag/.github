@@ -1,14 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <linearGradient id="mirrorGradient" x1="50%" y1="0%" x2="50%" y2="100%">
-            <stop offset="0%" style="stop-color:#02FC9F;stop-opacity:1"/>
-            <stop offset="50%" style="stop-color:#02FC9F;stop-opacity:0.8"/>
-            <stop offset="100%" style="stop-color:#015E5C;stop-opacity:1"/>
-        </linearGradient>
-        <mask id="archMask">
-            <path d="M4 20C4 13.5 9.5 8 16 8C16 14.5 10.5 20 4 20Z" fill="white" transform="rotate(90 12 12)"/>
-        </mask>
-    </defs>
-    <rect x="4" y="2" width="16" height="20" rx="8" fill="url(#mirrorGradient)" mask="url(#archMask)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <path d="M5 21h14V11c0-5.523-4.477-10-10-10S5 5.477 5 11v10z" fill="#02FC9F"/>
 </svg>
