@@ -1,4 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <path d="M5 21h14V11c0-5.523-4.477-10-10-10S5 5.477 5 11v10z" fill="#02FC9F"/>
-</svg> 
+<svg width="760px" height="974px" viewBox="0 0 760 974" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Mirror</title>
+    <defs>
+        <linearGradient x1="34.6969028%" y1="4.14323638%" x2="89.5106629%" y2="80.2175697%" id="linearGradient-1">
+            <stop stop-color="#015E5C" offset="0%"></stop>
+            <stop stop-color="#02FC9F" offset="34%"></stop>
+            <stop stop-color="#015E5C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-14.6006337%" y1="26.4792918%" x2="74.4502141%" y2="119.752433%" id="linearGradient-2">
+            <stop stop-color="#02FC9F" offset="0%"></stop>
+            <stop stop-color="#02FC9F" offset="23%"></stop>
+            <stop stop-color="#02FC9F" offset="31%"></stop>
+            <stop stop-color="#02FC9F" offset="37%"></stop>
+            <stop stop-color="#015E5C" offset="42%"></stop>
+            <stop stop-color="#015E5C" offset="46%"></stop>
+            <stop stop-color="#015E5C" offset="48%"></stop>
+            <stop stop-color="#02FC9F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo">
+            <path d="M380,25 L380,25 C565.25,25 734,193.77 734,379 L727.8,941.83 L715.4,929.43 L759.04,973.07 L759.04,973.07 L759.04,379.06 C759.01739,225.769452 666.673989,87.5805224 525.055644,28.9099403 C383.4373,-29.7606418 220.422285,2.63671798 112,111 C91.4539696,131.538227 73.3168208,154.352251 57.94,179 L78,199.06 C136.05,99.08 256.06,25 380,25 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <path d="M0.93,973.13 L759.07,973.13 L727.82,941.89 L32.18,941.89 L32.18,379.06 C32.18,317.75 49.26,248.51 77.98,199.06 L57.9,179 C20.4876661,239.017143 0.733647715,308.357213 0.898957946,379.08 L0.93,973.13 Z" id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

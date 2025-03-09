@@ -28,7 +28,7 @@
     &nbsp;
     <a href="https://www.youtube.com/@watchSurrealine"><img height="25" src="assets/images/social/youtube.svg" alt="Youtube"></a>
     &nbsp;
-    <a href="https://mirror.xyz/preterag.eth"><img height="25" src="assets/images/social/mirror.svg" alt="Mirror"></a>
+    <a href="https://mirror.xyz/preterag.eth"><img height="30" width="24" src="assets/images/social/mirror.svg" alt="Mirror"></a>
     &nbsp;
     <a href="https://docs.preterag.com"><img height="25" src="assets/images/social/docs.svg" alt="Docs"></a>
 </p>
