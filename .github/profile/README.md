@@ -7,7 +7,6 @@
 <br>
 
 <h3 align="center" style="color: #02FC9F;">Pioneering the Future of Independent Film Distribution & Funding</h3>
-<h4 align="center" style="color: #015E5C;">Building Surrealine - a decentralized streaming platform that empowers indie filmmakers to create, distribute, and fund their vision while connecting them with their audience.</h4>
 
 <br>
 
@@ -34,43 +33,6 @@
 </p>
 
 <br>
-
-## <span style="color: #02FC9F;">🎬 About Surrealine</span>
-
-Surrealine is revolutionizing independent filmmaking by creating a fair, affordable, and accessible platform where:
-
-- 🎥 **Filmmakers** can showcase their work and connect directly with their audience
-- 💰 **Investors** can discover and fund promising film projects
-- 🍿 **Viewers** can enjoy unique, independent films and support creators directly
-- 🤝 **Community** drives the future of independent cinema
-
-## <span style="color: #02FC9F;">🚀 Features</span>
-
-- **Decentralized Distribution**: Fair and transparent content delivery
-- **Direct Funding**: Connect filmmakers with investors seamlessly
-- **Creator-First**: Platform built around filmmaker needs
-- **Community-Driven**: Engaging ecosystem for film enthusiasts
-- **Fair Revenue**: Transparent revenue sharing model
-- **Global Access**: Available to creators worldwide
-
-## <span style="color: #02FC9F;">🛠️ Technology</span>
-
-Built with cutting-edge technology focusing on:
-
-- **Decentralization**: Ensuring fair content distribution
-- **Scalability**: Supporting global audience reach
-- **Security**: Protecting creator and viewer interests
-- **Accessibility**: Easy-to-use platform for all users
-
-## <span style="color: #02FC9F;">🤝 Join the Revolution</span>
-
-We're building the future of independent film distribution. Join us:
-
-- 📺 [Watch on Surrealine](https://www.surrealine.com)
-- 📖 [Read our Blog](https://mirror.xyz/preterag.eth)
-- 📚 [Check Documentation](https://docs.preterag.com)
-- 📱 [Follow on X](https://x.com/preterag)
-- 📧 [Contact Us](mailto:hello@preterag.com)
 
 ## <span style="color: #02FC9F;">🎯 Vision</span>
 
