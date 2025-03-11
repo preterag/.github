@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center"><img width="600" src="assets/images/social/preterag_logo.png" alt="Preterag Logo"></p>
+<p align="center"><img width="300" src="assets/images/social/preterag_logo.png" alt="Preterag Logo"></p>
 
 <br>
 
